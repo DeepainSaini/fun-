@@ -5,6 +5,8 @@ List of Recipes:
 2. Pizza
 3. Chinese
 4. Continental
+5. Italian
+6. japanese
 
 
 Good bye
